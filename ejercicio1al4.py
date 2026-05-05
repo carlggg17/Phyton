@@ -35,3 +35,4 @@ segundos = minutos * 60
 print(f"El total de minutos es de: {hora * minutos}")
 print(f"El total de segundos es de: {segundos}")
 
+
